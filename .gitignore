@@ -1,0 +1,13 @@
+# Среда Python
+venv_stable/
+venv/
+__pycache__/
+
+# Результаты и временные файлы
+*.csv
+*.xlsx
+/export_results/
+purchase_input.csv
+
+# Логика IDE (VS Code)
+.vscode/
