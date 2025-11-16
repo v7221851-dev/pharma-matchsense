@@ -489,6 +489,5 @@ def main():
             st.error(f"Произошла ошибка при обработке файла закупки. Убедитесь, что разделитель — ';': {e}")
             st.code(traceback.format_exc())
 
-
 if __name__ == '__main__':
     main()
